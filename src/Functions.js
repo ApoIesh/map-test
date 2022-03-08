@@ -12,7 +12,7 @@ const config = {
     distanceFilter: 0,
 };
 
-export const GOOGLE_MAPS_APIKEY = "AIzaSyCq_JNe5gCCBEYQfuFMPo35vC9maHCD_uA"
+export const GOOGLE_MAPS_APIKEY = "GOOGLE_MAPS_APIKEY"
 
 const hasLocationPermissionIOS = async () => {
     const openSetting = () => {
